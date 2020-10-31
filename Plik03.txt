@@ -9,4 +9,5 @@ Dodano asystent pomocy
 Uproszczenie interfejsu graficznego
 easierApp
 Zmiana12wClonie
+Zmiana13
 
