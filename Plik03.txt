@@ -10,4 +10,5 @@ Uproszczenie interfejsu graficznego
 easierApp
 Zmiana12wClonie
 Zmiana13
+Zmiana14
 
